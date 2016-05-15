@@ -1,0 +1,986 @@
+[
+    {
+        "outputFile": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 50,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 50,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 46,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 46,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 54,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 54,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 67,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1053,
+                        "endColumn": 67,
+                        "endOffset": 1116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 50,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 509,
+                        "endColumn": 50,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 44,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 44,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 52,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 52,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 61,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 991,
+                        "endColumn": 58,
+                        "endOffset": 1048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 98,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 98,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 81,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 847,
+                        "endColumn": 78,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 87,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 762,
+                        "endColumn": 84,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 56,
+                    "endOffset": 865
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 56,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 870,
+                    "endColumn": 67,
+                    "endOffset": 933
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 926,
+                        "endColumn": 64,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 938,
+                    "endColumn": 61,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 61,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 42,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 42,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1043,
+                    "endColumn": 42,
+                    "endOffset": 1081
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 42,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1086,
+                    "endColumn": 44,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 44,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1417
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1422,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1577
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartIISN\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 56,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 50,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 50,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 46,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 215,
+                        "endColumn": 46,
+                        "endOffset": 257
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 54,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 54,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 67,
+                    "endOffset": 328
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1053,
+                        "endColumn": 67,
+                        "endOffset": 1116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 333,
+                    "endColumn": 50,
+                    "endOffset": 379
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 509,
+                        "endColumn": 50,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 384,
+                    "endColumn": 44,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 262,
+                        "endColumn": 44,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 52,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 52,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endColumn": 61,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 991,
+                        "endColumn": 58,
+                        "endOffset": 1048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endColumn": 98,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 98,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 81,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 847,
+                        "endColumn": 78,
+                        "endOffset": 924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 87,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 762,
+                        "endColumn": 84,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 56,
+                    "endOffset": 865
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 56,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 870,
+                    "endColumn": 67,
+                    "endOffset": 933
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 926,
+                        "endColumn": 64,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 938,
+                    "endColumn": 61,
+                    "endOffset": 995
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 61,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1000,
+                    "endColumn": 42,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 42,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1043,
+                    "endColumn": 42,
+                    "endOffset": 1081
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 42,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1086,
+                    "endColumn": 44,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 44,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1417
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1422,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1577
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\ProjectPartISN\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 50,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 46,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 54,
+                    "endOffset": 260
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 265,
+                    "endColumn": 50,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 44,
+                    "endOffset": 356
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 361,
+                    "endColumn": 52,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 106,
+                    "endOffset": 516
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 521,
+                    "endColumn": 95,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 84,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 90,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 69,
+                    "endOffset": 858
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 69,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 863,
+                    "endColumn": 83,
+                    "endOffset": 942
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 947,
+                    "endColumn": 44,
+                    "endOffset": 987
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 992,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1278
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1283,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1438
+                },
+                "from": {
+                    "file": "C:\\Users\\Student\\StudioProjects\\Lab2-1starter\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
